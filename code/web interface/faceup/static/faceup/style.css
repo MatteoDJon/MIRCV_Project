@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'Caviar_Dreams_Bold';
+    src: url('Caviar_Dreams_Bold.ttf');
+}
+body {
+    font-family: 'Caviar_Dreams_Bold';
+    font-size: small;
+    font-weight: bolder;
+    color: #01040c;
+    background-color: #518cad;
+    position: absolute;
+    z-index: -1; 
+    width: 100%;
+    height:100%;
+    margin: 40px;
+    font-size: larger;
+}
+#wrapper {
+    width: 700px;
+    overflow:hidden; 
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 700px;
+
+}
+#logo{
+    width:200px;
+    height: 200px;
+    margin-left :16%;
+    margin-top: 0%;
+    margin-bottom: 4%;
+}
+#outer2{
+    background-color:#518cad;
+    width: 100%;
+}
+#main{
+    width: 700px;
+    margin-left: 30%;
+    margin-right: 30%;
+ 
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#title {
+    font-family: 'Caviar_Dreams_Bold';
+    margin-left: 60%;
+}
+input{
+    background-color: #84a7bb;
+    font-family: 'Caviar_Dreams_Bold';
+    font-size: medium;
+    color:  #303137; 
+    display: inline-block; 
+    padding: 8px 8px; 
+    font-weight: bold; 
+    border-radius: 50px;
+    width: 350px;
+    border-width:0px;
+    cursor: pointer;
+}
+button {
+    background-color: rgb(241, 243, 245);
+    font-family: 'Caviar_Dreams_Bold';
+    color:  #030711;
+    display: inline-block; 
+    padding: 10px 20px; 
+    font-weight: bold; 
+    border-radius: 50px;
+    border-width:0px;
+    margin-left:30px;
+    cursor: pointer;
+    
+}
+#outer3{
+    background-color: #518cad;
+    width: 100%;
+    height: 900px;
+}
+#main2{
+
+    padding-bottom:40px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 1200px;
+}
+.resimg{
+    width: 120px;
+}
+#query{
+    width: 120px;
+    margin-left: 20%;
+    margin-top:10px;
+}
+
+a{
+    text-decoration: NONE; 
+}
+
+
